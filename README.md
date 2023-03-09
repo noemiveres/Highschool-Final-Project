@@ -8,15 +8,26 @@ We complete a level when the counter, which shows the distance traveled, exceeds
 If we complete all levels, we win.
 
 A program a C# programozási nyelvben volt megírva, tehát objektumorientáltan. Összesen 11 osztályból épül fel, ezek:
+
 •	Credits
+
 •	EndTrigger
+
 •	FollowPlayer
+
 •	GameManager
+
 •	LevelComplete
+
 •	MENU
+
 •	MoveTheBoxes
+
 •	PlayerCollision
+
 •	PlayerMovement
+
 •	RotateY
+
 •	Score
 
