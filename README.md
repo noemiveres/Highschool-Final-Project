@@ -9,3 +9,5 @@ If we complete all levels, we win.
 
 The program was written in the C# programming language, which is an object-oriented language.
 
+Documentation is only available in Hungarian, however the steps are explained when starting the game.
+
